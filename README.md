@@ -1,0 +1,1 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=franz-dalitz_spring-boot-webapp-uebung-github&metric=alert_status&token=e7272b86a07227f01956ca67965181e7dffc28b7)](https://sonarcloud.io/summary/new_code?id=franz-dalitz_spring-boot-webapp-uebung-github)
